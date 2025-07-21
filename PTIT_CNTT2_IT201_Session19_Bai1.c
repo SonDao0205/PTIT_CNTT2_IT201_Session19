@@ -33,7 +33,7 @@ int main(){
     Node* root = NULL;
     root = createNode(2);
     root->left = createNode(3);
-    root->left->left = createNode(5)
+    root->left->left = createNode(5);
     root->right = createNode(3);
     return 0;
 }
